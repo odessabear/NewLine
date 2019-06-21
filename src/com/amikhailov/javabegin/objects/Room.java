@@ -4,5 +4,5 @@ public class Room {
 
     private int length;
     private  int height;
-    private int weidth;
+    private int width;
 }

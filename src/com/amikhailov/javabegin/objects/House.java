@@ -6,9 +6,16 @@ public class House {
 
     private int roomCount;
 
-    private String floursCount;
+    private String floorsCount;
 
     private String windowsCount;
 
+    private void buildHouse(){
+
+    }
+
+    private void saleHose(){
+
+    }
 
 }
