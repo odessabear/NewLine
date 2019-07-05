@@ -1,23 +1,10 @@
 package com.amikhailov.oop.shop.goods;
 
-public class Computer {
+public class Computer extends ElectronicDevice {
 
-    private String name;
     private int ram;
-    private String department;
 
-
-
-    public void on(){
-
+    public void loadOS() {
     }
 
-    public void off(){
-
-    }
-
-
-    public void loadOS(){
-
-    }
 }

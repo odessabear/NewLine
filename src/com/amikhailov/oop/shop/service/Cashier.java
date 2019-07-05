@@ -1,10 +1,6 @@
 package com.amikhailov.oop.shop.service;
 
-public class Cashier {
-
-    private String name;
-    private String department;
-    private boolean free;
+public class Cashier extends BaseEmployee{
 
     public void getMoney(){
 

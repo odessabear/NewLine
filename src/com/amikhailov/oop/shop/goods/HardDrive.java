@@ -1,20 +1,18 @@
 package com.amikhailov.oop.shop.goods;
 
-public class HardDrive {
+public class HardDrive extends ElectronicDevice{
 
-    private String name;
     private int volume;
-    private String department;
 
-    public void format(){
-
-    }
-
-    public void copy(){
+    public void format() {
 
     }
 
-    public void delete(){
+    public void copy() {
+
+    }
+
+    public void delete() {
 
     }
 }

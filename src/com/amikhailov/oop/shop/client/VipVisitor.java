@@ -1,15 +1,17 @@
 package com.amikhailov.oop.shop.client;
 
-public class VipVisitor {
-
-    private String name;
+public class VipVisitor extends BaseVisitor {
     private float discount;
 
-    public void buy(){
-
+    private boolean checkDiscount() {
+        return discount > 0;
     }
 
-    public void returnGoods(){
-
+    public void buy() {
+        if (!checkDiscount()){
+            super.buy();
+        }else {
+            // discount buy))
+        }
     }
 }
