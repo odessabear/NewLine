@@ -1,15 +1,30 @@
 package com.amikhailov.oop.shop.bank;
 
-public class BaseBank {
+import com.amikhailov.oop.shop.interfaces.BankInterface;
+
+public class BaseBank implements BankInterface {
 
     private String name;
-    private String creaditDescription;
+    private String creditDescription;
 
-    public void checkInfo(){
+
+    @Override
+    public void checkInfo() {
 
     }
 
-    public void giveCredit(){
+    @Override
+    public void giveCredit() {
 
+    }
+
+    @Override
+    public String getName() {
+        return name;
+    }
+
+    @Override
+    public String getCreditDescription() {
+        return creditDescription;
     }
 }

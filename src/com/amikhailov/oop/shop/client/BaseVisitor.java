@@ -1,11 +1,25 @@
 package com.amikhailov.oop.shop.client;
 
-public class BaseVisitor {
+import com.amikhailov.oop.shop.interfaces.VisitorInterface;
+
+public class BaseVisitor implements VisitorInterface {
+
     private String name;
 
-    public void buy() {
+    @Override
+    public void buy(){
+
     }
 
-    public void returnGoods() {
+    @Override
+    public void returnGoods(){
+
     }
+
+    @Override
+    public String getName() {
+        return name;
+    }
+
+
 }
