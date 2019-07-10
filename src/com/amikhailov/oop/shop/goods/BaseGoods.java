@@ -3,7 +3,7 @@ package com.amikhailov.oop.shop.goods;
 import com.amikhailov.oop.shop.department.BaseDepartment;
 import com.amikhailov.oop.shop.interfaces.GoodsInterface;
 
-public class BaseGoods implements GoodsInterface {
+public abstract class BaseGoods implements GoodsInterface {
     // свойства, которые будут иметь все товары
     private double price;
 

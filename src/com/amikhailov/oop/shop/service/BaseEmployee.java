@@ -4,7 +4,7 @@ import com.amikhailov.oop.shop.department.BaseDepartment;
 import com.amikhailov.oop.shop.interfaces.DepartmentInterface;
 import com.amikhailov.oop.shop.interfaces.EmployeeInterface;
 
-public class BaseEmployee implements EmployeeInterface {
+public abstract class BaseEmployee implements EmployeeInterface {
 
     private String name;
     private DepartmentInterface department;
