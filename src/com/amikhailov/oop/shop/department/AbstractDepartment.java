@@ -1,14 +1,12 @@
 package com.amikhailov.oop.shop.department;
 
-import com.amikhailov.oop.shop.goods.BaseGoods;
 import com.amikhailov.oop.shop.interfaces.DepartmentInterface;
 import com.amikhailov.oop.shop.interfaces.EmployeeInterface;
 import com.amikhailov.oop.shop.interfaces.GoodsInterface;
-import com.amikhailov.oop.shop.service.BaseEmployee;
 
 import java.util.ArrayList;
 
-public abstract class BaseDepartment implements DepartmentInterface {
+public abstract class AbstractDepartment implements DepartmentInterface {
 
     private String name;
     private ArrayList<EmployeeInterface> employeeList;

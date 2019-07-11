@@ -5,6 +5,7 @@ import com.amikhailov.oop.shop.interfaces.DepartmentInterface;
 import com.amikhailov.oop.shop.interfaces.VisitorInterface;
 import com.amikhailov.oop.shop.service.Administrator;
 
+import java.io.File;
 import java.util.ArrayList;
 
 public class SalesRoom {
@@ -16,5 +17,7 @@ public class SalesRoom {
     private ArrayList<VisitorInterface> visitorList;
 
     private Administrator administrator;
+
+    File file;
 
 }

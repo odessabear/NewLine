@@ -1,6 +1,6 @@
 package com.amikhailov.oop.shop.bank;
 
-public class PrivatBank extends BaseBank {
+public class PrivatBank extends AbstractBank {
 
     public PrivatBank(String name, String creditDescription) {
         super(name, creditDescription);

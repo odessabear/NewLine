@@ -7,4 +7,8 @@ public class Computer extends ElectronicDevice {
     public void loadOS() {
     }
 
+    public Computer(String name){
+        super(name);
+    }
+
 }

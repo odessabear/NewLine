@@ -1,6 +1,6 @@
 package com.amikhailov.oop.shop.bank;
 
-public class MonoBank extends BaseBank {
+public class MonoBank extends AbstractBank {
 
     public MonoBank(String name, String creditDescription) {
         super(name, creditDescription);
