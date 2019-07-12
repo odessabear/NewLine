@@ -1,4 +1,4 @@
-package com.amikhailov.oop.shop.service;
+package com.amikhailov.oop.shop.staff;
 
 import com.amikhailov.oop.shop.interfaces.DepartmentInterface;
 import com.amikhailov.oop.shop.interfaces.EmployeeInterface;

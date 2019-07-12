@@ -2,31 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cca9345-6275-4377-a634-7786ecb1fb48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/Subwoofer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/amikhailov/start/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/SalesRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/SalesRoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/bank/BaseBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/bank/AbstractBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/bank/MonoBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/bank/MonoBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/bank/PrivatBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/bank/PrivatBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/client/BaseVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/client/AbstractVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/client/CommonVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/client/CommonVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/client/VipVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/client/VipVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/department/BaseDepartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/department/AbstractDepartment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/department/ElectronicDepartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/department/ElectronicDepartment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/department/GameDepartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/department/GameDepartment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/department/HomeDepartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/department/HomeDepartment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/BaseGoods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/AbstractGoods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/ElectronicDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/ElectronicDevice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/Plate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/Plate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/bank/AbstractBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/bank/AbstractBank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/Televisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/Televisor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/interfaces/VisitorInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/interfaces/VisitorInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Banker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Banker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/BaseEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/AbstractEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Cashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Cashier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Consultant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Consultant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Security.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Security.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/AbstractEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/staff/AbstractEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/staff/Administrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Banker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/staff/Banker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Cashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/staff/Cashier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Consultant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/staff/Consultant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Security.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/oop/shop/staff/Security.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/amikhailov/start/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amikhailov/start/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,28 +27,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/AbstractEmployee.java">
+        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/bank/AbstractBank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="102">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+              <folding>
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Administrator.java">
+        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/client/AbstractVisitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="408">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Banker.java">
+        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/staff/Banker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="102">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,7 +66,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Cashier.java">
+        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/staff/Cashier.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
@@ -80,7 +75,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Consultant.java">
+        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/staff/Consultant.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
@@ -89,7 +84,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Security.java">
+        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/staff/Security.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
@@ -98,28 +93,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/interfaces/GoodsInterface.java">
+        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/ElectronicDevice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/SalesRoom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            <state relative-caret-position="357">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/SalesRoom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/amikhailov/start/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+            <state relative-caret-position="357">
+              <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,10 +123,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/interfaces/VisitorInterface.java">
+        <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/Televisor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="204">
+              <caret line="14" column="50" lean-forward="true" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+              <folding>
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -181,18 +181,18 @@
         <option value="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/BaseEmployee.java" />
         <option value="$PROJECT_DIR$/src/com/amikhailov/oop/shop/interfaces/VisitorInterface.java" />
         <option value="$PROJECT_DIR$/src/com/amikhailov/oop/shop/client/AbstractVisitor.java" />
-        <option value="$PROJECT_DIR$/src/com/amikhailov/oop/shop/bank/AbstractBank.java" />
         <option value="$PROJECT_DIR$/src/com/amikhailov/oop/shop/client/VipVisitor.java" />
         <option value="$PROJECT_DIR$/src/com/amikhailov/oop/shop/department/AbstractDepartment.java" />
         <option value="$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/AbstractGoods.java" />
         <option value="$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/Computer.java" />
         <option value="$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/ElectronicDevice.java" />
-        <option value="$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/Televisor.java" />
         <option value="$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/Subwoofer.java" />
         <option value="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/AbstractEmployee.java" />
         <option value="$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Banker.java" />
         <option value="$PROJECT_DIR$/src/com/amikhailov/oop/shop/SalesRoom.java" />
+        <option value="$PROJECT_DIR$/src/com/amikhailov/oop/shop/bank/AbstractBank.java" />
         <option value="$PROJECT_DIR$/src/com/amikhailov/start/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/Televisor.java" />
       </list>
     </option>
   </component>
@@ -277,14 +277,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="amikhailov" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NewLine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NewLine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="amikhailov" type="462c0819:PsiDirectoryNode" />
-              <item name="start" type="462c0819:PsiDirectoryNode" />
+              <item name="staff" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -396,11 +389,19 @@
       <option name="project" value="LOCAL" />
       <updated>1562324090428</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="OOP course on java ,exercise shop with abstract classes and Main program .">
+      <created>1562864801240</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562864801240</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979253" visible="true" weight="0.2595949" />
       <window_info id="Structure" order="1" sideWeight="0.5020747" side_tool="true" weight="0.25479743" />
@@ -419,7 +420,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32987553" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32987553" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -430,7 +431,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979253" visible="true" weight="0.25692964" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979253" visible="true" weight="0.2595949" />
       <window_info id="Structure" order="1" sideWeight="0.5020747" side_tool="true" weight="0.25479743" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -447,7 +448,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32987553" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32987553" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -463,7 +464,8 @@
     <MESSAGE value="OOP course on java ,second exercise." />
     <MESSAGE value="OOP course on java ,exercise 3." />
     <MESSAGE value="OOP course on java ,exercise 3 shop with inheritance and composition." />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP course on java ,exercise 3 shop with inheritance and composition." />
+    <MESSAGE value="OOP course on java ,exercise shop with abstract classes and Main program ." />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP course on java ,exercise shop with abstract classes and Main program ." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/amikhailov/javabegin/objects/Door.java">
@@ -569,28 +571,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/bank/AbstractBank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/bank/MonoBank.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/client/AbstractVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -633,17 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/ElectronicDevice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/GameConsole.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -662,17 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/Televisor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -729,65 +691,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/AbstractEmployee.java">
+    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/staff/AbstractEmployee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Administrator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/staff/Administrator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Security.java">
+    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/staff/Security.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Banker.java">
+    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/staff/Banker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="102">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Cashier.java">
+    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/staff/Cashier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/service/Consultant.java">
+    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/staff/Consultant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/SalesRoom.java">
+    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/ElectronicDevice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        <state relative-caret-position="357">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/bank/AbstractBank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/amikhailov/start/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        <state relative-caret-position="357">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/client/AbstractVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/goods/Televisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="50" lean-forward="true" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/amikhailov/oop/shop/SalesRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

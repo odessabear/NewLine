@@ -1,4 +1,4 @@
-package com.amikhailov.oop.shop.service;
+package com.amikhailov.oop.shop.staff;
 
 public class Consultant extends AbstractEmployee {
 

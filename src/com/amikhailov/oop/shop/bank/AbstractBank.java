@@ -4,6 +4,7 @@ import com.amikhailov.oop.shop.interfaces.BankInterface;
 
 public abstract class AbstractBank implements BankInterface {
 
+    private static int requestCount;
     private String name;
     private String creditDescription;
 
@@ -14,7 +15,7 @@ public abstract class AbstractBank implements BankInterface {
 
     @Override
     public void checkInfo() {
-
+        requestCount++;
     }
 
     @Override

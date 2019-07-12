@@ -3,7 +3,7 @@ package com.amikhailov.oop.shop;
 
 import com.amikhailov.oop.shop.interfaces.DepartmentInterface;
 import com.amikhailov.oop.shop.interfaces.VisitorInterface;
-import com.amikhailov.oop.shop.service.Administrator;
+import com.amikhailov.oop.shop.staff.Administrator;
 
 import java.io.File;
 import java.util.ArrayList;

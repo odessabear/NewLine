@@ -8,7 +8,11 @@ public class Televisor extends ElectronicDevice {
         super(name);
     }
 
-    public void selectChannel() {
+    public void selectChannel(int channelNumber) {
+        System.out.println("You selected channel number " + channelNumber);
+    }
 
+    public void selectChannel(String channelName){
+        System.out.println("You selected " + channelName + " channel");
     }
 }
