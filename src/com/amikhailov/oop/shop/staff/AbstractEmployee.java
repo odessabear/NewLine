@@ -5,6 +5,13 @@ import com.amikhailov.oop.shop.interfaces.EmployeeInterface;
 
 public abstract class AbstractEmployee implements EmployeeInterface {
 
+    public AbstractEmployee(String name) {
+        this.name = name;
+    }
+
+    public AbstractEmployee() {
+    }
+
     private String name;
     private DepartmentInterface department;
     private boolean free;

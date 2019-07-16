@@ -8,7 +8,7 @@ public class PrivatBank extends AbstractBank {
 
     @Override
     public void checkInfo() {
-        // доработанная реализация
+        super.checkInfo();
     }
 
     @Override

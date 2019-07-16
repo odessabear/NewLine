@@ -5,7 +5,7 @@ import com.amikhailov.oop.shop.interfaces.GoodsInterface;
 
 public abstract class AbstractGoods implements GoodsInterface {
     // свойства, которые будут иметь все товары
-
+public static final int DEFAULT_GUARANTEE = 2;
 
     public AbstractGoods() {
     }
@@ -13,6 +13,8 @@ public abstract class AbstractGoods implements GoodsInterface {
     public AbstractGoods(String name) {
         this.name = name;
     }
+
+
 
     private double price;
 
@@ -24,6 +26,12 @@ public abstract class AbstractGoods implements GoodsInterface {
 
     private String company;
 
+    public AbstractGoods(double price, boolean hasGuarantee, String name, String company) {
+        this.price = price;
+        this.hasGuarantee = hasGuarantee;
+        this.name = name;
+        this.company = company;
+    }
 
     @Override
     public double getPrice() {

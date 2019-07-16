@@ -4,6 +4,11 @@ public class Televisor extends ElectronicDevice {
 
  //   private String model;
 
+
+    public Televisor(double price, boolean hasGuarantee, String name, String company) {
+        super(price, hasGuarantee, name, company);
+    }
+
     public Televisor(String name){
         super(name);
     }

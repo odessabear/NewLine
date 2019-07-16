@@ -8,8 +8,10 @@ public class MonoBank extends AbstractBank {
 
     @Override
     public void checkInfo() {
-        // доработанная реализация
+        super.checkInfo();
     }
+
+    public void checkInfo(boolean critical){}
 
     @Override
     public void giveCredit() {

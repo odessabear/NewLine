@@ -11,4 +11,6 @@ public interface GoodsInterface {
     DepartmentInterface getDepartment();
 
     String getCompany();
+
+    void setDepartment(DepartmentInterface department);
 }
